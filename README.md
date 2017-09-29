@@ -1,2 +1,5 @@
 # hello-world
-Just another repositry
+
+Hi humans,
+
+Javed Iqbal here.I am a web developer.
